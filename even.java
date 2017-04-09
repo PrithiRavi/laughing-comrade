@@ -1,5 +1,4 @@
 import java.util;
-
 class even
 {
   public static void main(String args[])
@@ -9,8 +8,8 @@ class even
     Scanner input = new Scanner(System.in);
     num = input.nextInt();
     if ( num % 2 == 0 )
-        System.out.println("Entered number is even");
+        System.out.println("Entered number is even......");
      else
-        System.out.println("Entered number is odd");
+        System.out.println("Entered number is odd.....");
   }
 }
